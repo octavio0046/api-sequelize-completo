@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-express-sequelizejs-mysql",
+  "version": "1.0.0",
+  "description": "nodejs-express-sequelizejs-mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-Express-SequelizeJs-MySQL"
+  ],
+  "author": "JSA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "install": "^0.12.2",
+    "morgan": "^1.9.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^4.43.2",
+    "sequelize-cli": "^5.4.0"
+  },
+  "devDependencies": {
+    "babel-register": "^6.26.0"
+  }
+}
